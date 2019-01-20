@@ -7,5 +7,5 @@ Have a look around and communicate with us.
 
 
 
-Contact: [@redcamel14](https://twitter.com/RedCamel14)   
+Contact/DM: [@redcamel14](https://twitter.com/RedCamel14)   
 Discuss: [ircnet](https://webchat.ircnet.net) #fieldwork
