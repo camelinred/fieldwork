@@ -6,7 +6,7 @@ Have a look around and communicate with us.
 
 * [roadmap fighting illiteracy](https://github.com/camelinred/fieldwork/wiki/roadmap-fighting-illiteracy)
 * [English camps](https://github.com/camelinred/fieldwork/wiki/English-camps)
-* [Writing basecamps]()
+* [Writing basecamps](https://github.com/camelinred/fieldwork/wiki/Writing-basecamps)
 
 
 Contact/DM: [@redcamel14](https://twitter.com/RedCamel14)   
